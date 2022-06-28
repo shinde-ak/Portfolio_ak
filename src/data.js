@@ -2,188 +2,101 @@ export const featuredPortfolio = [
     {
       id: 1,
       title: "Chat Bot - VITian",
+      l :"https://github.com/shinde-ak/Vitan-The-Chatbot",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
+          "https://www.xenioo.com/wp-content/uploads/2021/07/chastbots-list.png"
+      },
     {
       id: 2,
       title: "ROCK Detection",
+      l:"https://github.com/shinde-ak/Rock_Detection",
       img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+          "https://st3.depositphotos.com/1071909/14471/i/600/depositphotos_144710981-stock-photo-deep-learning-concept.jpg"
     },
     {
       id: 3,
       title: "School Management",
+      l:"https://github.com/shinde-ak/School-Mangament",
       img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+          "https://arctype.com/blog/content/images/2021/11/database-blue.png"
     },
     {
       id: 4,
       title: "Phishing URL Detection",
+      l:"https://github.com/shinde-ak/Phishing_URL_Detection",
       img:
-        "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
+          "https://www.kennebunksavings.com/app/uploads/2021/04/Computer-Safety-5.jpg"
     },
     {
       id: 5,
       title: "Vehicle Crash Detection",
+      l:"https://github.com/shinde-ak/S.H.A.D.Y",
       img:
-        "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+          "https://www.technologiesflare.com/wp-content/uploads/2021/11/ai-for-google-paid-campaigns.jpg"
     },
     {
       id: 6,
-      title: "Chat Boat - Covid Helper",
-      img:
-        "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
-    },
+      title: "Maze game solver",
+      l:"https://github.com/shinde-ak/maze",
+      img: "https://play-lh.googleusercontent.com/iSkhMOwMspm6Ha14rMmBK5_ij_6H7ckuPbL4_6vPQzmEnplODygGW61263397FTmGA",
+    }
   ];
   
   export const webPortfolio = [
+    
     {
       id: 1,
-      title: "Chat Bot - VITian",
-      img: "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+      title: "ROCK Detection",
+      l:"https://github.com/shinde-ak/Rock_Detection",
+      img:
+          "https://st3.depositphotos.com/1071909/14471/i/600/depositphotos_144710981-stock-photo-deep-learning-concept.jpg"
     },
     {
       id: 2,
-      title: "ROCK Detection",
-      img: "https://cdn.dribbble.com/users/3967258/screenshots/15463803/media/4fddb9a2caf3b3bd634060f706a91e73.png?compress=1&resize=1200x900",
-    },
-    {
-      id: 3,
       title: "School Management",
-      img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
-    },
-    {
-      id: 4,
-      title: "Phishing URL Detection",
-      img: "https://cdn.dribbble.com/users/2264844/screenshots/15463998/media/d85e92a332c41094f68e1f716884f7ce.jpg?compress=1&resize=1200x900",
-    },
-    {
-      id: 5,
-      title: "Vehicle Crash Detection",
-      img: "https://cdn.dribbble.com/users/387658/screenshots/15458608/media/e92ec1dd33dd1170ae3dc9c5272f2693.jpg?compress=1&resize=1200x900",
-    },
-    {
-      id: 6,
-      title: "Chat Boat - Covid Helper",
-      img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
-    },
+      img:
+          "https://arctype.com/blog/content/images/2021/11/database-blue.png"
+    }
+    
   ];
   
-  export const mobilePortfolio = [
+  export const ML = [
     {
       id: 1,
-      title: "Chat Boat - Covid Helper",
+      title: "Chat Bot - VITian",
+      l :"https://github.com/shinde-ak/Vitan-The-Chatbot",
       img:
-        "https://cdn.dribbble.com/users/2597268/screenshots/15468893/media/44313553d73ba41580f1df69749bba28.jpg?compress=1&resize=1200x900",
-    },
+          "https://www.xenioo.com/wp-content/uploads/2021/07/chastbots-list.png"
+      },
     {
       id: 2,
-      title: "Vehicle Crash Detection",
+      title: "ROCK Detection",
+      l:"https://github.com/shinde-ak/Rock_Detection",
       img:
-        "https://cdn.dribbble.com/users/5920881/screenshots/15463142/media/b5a460223798bd85d835710806e2f3dd.png?compress=1&resize=1200x900",
+          "https://st3.depositphotos.com/1071909/14471/i/600/depositphotos_144710981-stock-photo-deep-learning-concept.jpg"
     },
+
     {
       id: 3,
       title: "Phishing URL Detection",
+      l:"https://github.com/shinde-ak/Phishing_URL_Detection",
       img:
-        "https://cdn.dribbble.com/users/1998175/screenshots/15459384/media/48ac2b43ebe81ba0866afea1383cc939.png?compress=1&resize=1200x900",
+      "https://www.kennebunksavings.com/app/uploads/2021/04/Computer-Safety-5.jpg"
     },
     {
       id: 4,
-      title: "School Management",
+      title: "Vehicle Crash Detection",
+      l:"https://github.com/shinde-ak/S.H.A.D.Y",
       img:
-        "https://cdn.dribbble.com/users/2083704/screenshots/15468619/media/cd958306c7a772449e1ac23bd65ce506.png?compress=1&resize=1200x900",
+          "https://www.technologiesflare.com/wp-content/uploads/2021/11/ai-for-google-paid-campaigns.jpg"
     },
     {
       id: 5,
-      title: "ROCK Detection",
-      img:
-        "https://cdn.dribbble.com/users/26642/screenshots/15462545/media/1a202ef5c8338b6f78634e6edc1ba350.png?compress=1&resize=1200x900",
-    },
-    {
-      id: 6,
-      title: "Chat Bot - VITian",
-      img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
-    },
+      title: "Maze game solver",
+      l:"https://github.com/shinde-ak/maze",
+      img: "https://play-lh.googleusercontent.com/iSkhMOwMspm6Ha14rMmBK5_ij_6H7ckuPbL4_6vPQzmEnplODygGW61263397FTmGA",
+    }
   ];
   
-  export const designPortfolio = [
-    {
-      id: 1,
-      title: "Chat Bot - VITian",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 2,
-      title: "ROCK Detection",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 3,
-      title: "School Management",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 4,
-      title: "Phishing URL Detection",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 5,
-      title: "Vehicle Crash Detection",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 6,
-      title: "Chat Boat - Covid Helper",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-  ];
-  
-  export const contentPortfolio = [
-    {
-      id: 1,
-      title: "Chat Boat - Covid Helper",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 2,
-      title: "Vehicle Crash Detection",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 3,
-      title: "Phishing URL Detection",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 4,
-      title: "ROCK Detection",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 5,
-      title: "School Management",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 6,
-      title: "Chat Bot - VITian",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-  ];
+
   

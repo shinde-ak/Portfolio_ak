@@ -5,32 +5,31 @@ export default function Testimonials() {
     {
       id: 1,
       name: "Bhavesh Kore",
-      title: " Developer",
+      title: " Engineer",
       img:
-        "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://media-exp1.licdn.com/dms/image/C4D03AQFlkAvOVLeo_Q/profile-displayphoto-shrink_400_400/0/1654349106204?e=1661990400&v=beta&t=ckt39urpZ8yU4kXBYbfbbzoyfQmDCetGVDB14-Th1Oo",
       icon: "assets/twitter.png",
       desc:
-        "Oracle. Passed out from VIT , Chennai",
+        " Passed out from VIT , Chennai",
     },
     {
       id: 2,
-      name: "Dnyanda ",
-      title: "Full Stack Developer",
-      img:
-        "https://media-exp1.licdn.com/dms/image/C4E35AQGIUS8IEl5AxA/profile-framedphoto-shrink_400_400/0/1611642662518?e=1646924400&v=beta&t=5dHcuGzL-84kx68hhYC9Cru7sJF6WiZW-mX82diNe5o",
+      name: "Lakshay singh ",
+      title: "TCS ",
+      img:"https://media-exp1.licdn.com/dms/image/D4D35AQHR4Of5oRFXrA/profile-framedphoto-shrink_400_400/0/1648204525600?e=1657029600&v=beta&t=2h8Zo4nFwHozGFAC39pRXoiQQPoCogs04s2oy4wAqbI",
       icon: "assets/youtube.png",
       desc:
-        "Amazon India, 5 years",
+        "TCS India",
       featured: true,
     },
     {
       id: 3,
       name: "Abhishek Chede",
-      title: "Founder of VIThelper",
+      title: "HSBC",
       img:
-        "https://media-exp1.licdn.com/dms/image/C4E03AQHk3mgsn7PBKg/profile-displayphoto-shrink_400_400/0/1614636565206?e=1652313600&v=beta&t=P-VZr-L1XXGYEHqvvkzvo48iVWLRL3LIsbsRsS30P1c",
+        "https://media-exp1.licdn.com/dms/image/C5603AQFO85F3KoEPTw/profile-displayphoto-shrink_400_400/0/1628755280683?e=1661990400&v=beta&t=UbJIlSK9UtD0s8SEM-pE-HHliBldiIBJndx2fBt-FWI",
       desc:
-        "Founder VIThelper",
+        "Developer",
     },
   ];
   return (
